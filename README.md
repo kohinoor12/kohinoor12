@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kohinoor12&label=Profile%20views&color=0e75b6&style=flat" alt="kohinoor0806" /> </p>
 
-<p align="left"> <a href="https://kohinoorbharti.wordpress.com/" target="blank"><img src="https://img.shields.io/twitter/follow/kohinoor12?logo=twitter&style=for-the-badge" alt="thesecretdiary" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/kohinoorbharti0806/" target="blank"><img src="https://img.shields.io/linkedin/follow/kohinoorbharti0806?logo=linkedin&style=for-the-badge" alt="thesecretdiary" /></a> </p>
  <br/>
 
 ## 👨🏻‍💻 About Me:
