@@ -44,7 +44,7 @@
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://portfolio-nu-five-39.vercel.app/" target="_blank"><img alt="Github" src="https://www.google.com/imgres?q=github&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1125%2F0*N1fmHtI8gmkH_2Vu.png&imgrefurl=https%3A%2F%2Fthiago-marsal.medium.com%2Fgithub-a-beginners-introduction-00046817208a&docid=nyDqgm3EfOFlhM&tbnid=1u5y9vZ_6x64eM&vet=12ahUKEwi6u7mYovSGAxVkzTgGHajyBTYQM3oECGcQAA..i&w=1125&h=417&hcb=2&ved=2ahUKEwi6u7mYovSGAxVkzTgGHajyBTYQM3oECGcQAA" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+<p><a href="https://portfolio-nu-five-39.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 </p>
 
 ## 🤝 Support Me:
