@@ -56,7 +56,7 @@
         <img alt="Github" src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=white" target="_blank" height="30px">
     </a>
     <a href="https://github.com/kohinoor12/" target="_blank">
-        <img alt="Github" src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank" height="30px">
+        <img alt="Github" src="https://img.shields.io/badge/github-%2320232A.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank" height="30px">
     </a>
     <a href="https://www.linkedin.com/kohinoorbharti0806" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px">
