@@ -74,8 +74,10 @@
 
 ## 📊 My GitHub Data:
 
-<div align="center">
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kohinoor12&show_icons=true&locale=en&layout=compact" alt="kohinoor12" />
-  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kohinoor12&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kohinoor12&" alt="soumyajit" />
+</div>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kohinoor12&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kohinoor12&" alt="soumyajit" />
 </div>
