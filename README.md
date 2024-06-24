@@ -74,7 +74,7 @@
 
 ## 📊 My GitHub Data:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramesh0708&show_icons=true&locale=en&layout=compact" alt="ramesh0708" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kohinoor12&show_icons=true&locale=en&layout=compact" alt="kohinoor12" />
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kohinoor12&show_icons=true" />
