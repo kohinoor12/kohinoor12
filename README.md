@@ -24,7 +24,7 @@
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time drinking coffee
+- ⚡ Fun fact: I Google questions I already know the answers to, just to confirm I'm right.
 
 ## 🛠️ Technologies and Tools I use:
 
