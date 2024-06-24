@@ -1,5 +1,9 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Kohinoor Bharti</h1>
+<h1 align="center">Hi 👋, I'm Ramesh Choudhary! </h1>
+<h3 align="center">A passionate Android developer from India | Cloud Enthusiast | An Engineer by Education</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramesh0708&label=Profile%20views&color=0e75b6&style=flat" alt="ramesh0708" /> </p>
+
+<p align="left"> <a href="https://twitter.com/hiranandaniguy" target="blank"><img src="https://img.shields.io/twitter/follow/hiranandaniguy?logo=twitter&style=for-the-badge" alt="hiranandaniguy" /></a> </p>
  <br/>
 
 ## 👨🏻‍💻 About Me:
