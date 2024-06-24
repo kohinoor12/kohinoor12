@@ -46,6 +46,9 @@
 
 <p style="display: flex; gap: 10px;">
     <a href="https://portfolio-nu-five-39.vercel.app/" target="_blank">
+        <img alt="Github" src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=white" target="_blank" height="30px">
+    </a>
+    <a href="https://github.com/kohinoor12/" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank" height="30px">
     </a>
     <a href="https://www.linkedin.com/" target="_blank">
