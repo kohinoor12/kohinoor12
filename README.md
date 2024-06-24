@@ -58,12 +58,13 @@
     <a href="https://github.com/kohinoor12/" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank" height="30px">
     </a>
-    <a href="https://www.linkedin.com/" target="_blank">
+    <a href="https://www.linkedin.com/kohinoorbharti0806" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px">
     </a>
-    <a href="https://www.linkedin.com/" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/mail-%23ff0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30px">
+    <a href="mailto:kohinoorbharti7@gmail.com">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/mail-%23ff0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30px">
     </a>
+
 </p>
 
 
