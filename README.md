@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ramesh Choudhary! </h1>
-<h3 align="center">A passionate Android developer from India | Cloud Enthusiast | An Engineer by Education</h3>
+<h1 align="center">Hi 👋, I'm Kohinoor Bharti! </h1>
+<h3 align="center">A passionate Full Stack Developer from India | Data Science Enthusiast | An Engineer by Education</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramesh0708&label=Profile%20views&color=0e75b6&style=flat" alt="ramesh0708" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kohinoor12&label=Profile%20views&color=0e75b6&style=flat" alt="kohinoor0806" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hiranandaniguy" target="blank"><img src="https://img.shields.io/twitter/follow/hiranandaniguy?logo=twitter&style=for-the-badge" alt="hiranandaniguy" /></a> </p>
  <br/>
