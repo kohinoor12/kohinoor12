@@ -44,7 +44,7 @@
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://portfolio-nu-five-39.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+<p><a href="https://portfolio-nu-five-39.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank" height="30px"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 </p>
 
 ## 🤝 Support Me:
