@@ -55,7 +55,7 @@
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px">
     </a>
     <a href="https://www.linkedin.com/" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/mail-%ff0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30px">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/mail-%23ff0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30px">
     </a>
 </p>
 
