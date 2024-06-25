@@ -45,7 +45,15 @@
 
 <h2 align="center">Languages used</h2>
 
-### My Github Stats 📊
+## 📊 My GitHub Stats:
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kohinoor12&show_icons=true&locale=en&layout=compact" alt="kohinoor12" />
+</div>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kohinoor12&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kohinoor12&" alt="kohinoor12" />
+</div> 
 
 
 ## Connect with me  
