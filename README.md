@@ -59,12 +59,22 @@
 <p align="center"><img alt= "stats card" height="200px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=kohinoor12&theme=vision-friendly-dark">
 </a></p>
 
-<!-- Connect -->
-<h1 align="center">Connect with me</h2>
-<p align="center">
-<a href="https://www.buymeacoffee.com/kohinoor" target="blank">
-<a href="https://linkedin.com/in/kohinoorbharti0806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kohinoor-bharti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kohinoorbharti0806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kohinoor-bharti" height="30" width="40" /></a>
+
+## Connect with me  
+<div align="center">
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+ <a href="https://www.linkedin.com/in/kohinoorbharti0806/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/kohinoor12" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+</div>
+
+![Snake Graph](https://github.com/kohinoor12/kohinoor12/blob/master/github-user-contribution.svg)
+
 
 
 <!-- ## 🛠️ Languages and Tools:
