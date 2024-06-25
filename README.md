@@ -63,7 +63,7 @@
 ## Connect with me  
 <div align="center">
 <a href="" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
  <a href="https://www.linkedin.com/in/kohinoorbharti0806/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -73,7 +73,7 @@
 </a>
 </div>
 
-![Snake Graph](https://github.com/kohinoor12/kohinoor12/blob/master/github-user-contribution.svg)
+![Snake Graph](https://github.com/kohinoor12/kohinoor12/blob/main/github-user-contribution.svg)
 
 
 
