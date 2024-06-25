@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kohinoor Bharti! </h1>
 <h3 align="center">A passionate Full Stack Developer from India | Data Science Enthusiast | An Engineer by Profession</h3>
-<img align="center" alt="coding"  width="1000" height="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+<img align="center" alt="coding"  width="1000" height="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kohinoor12&label=Profile%20views&color=0e75b6&style=flat" alt="kohinoor0806" /> </p>
 
