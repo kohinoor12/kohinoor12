@@ -57,12 +57,6 @@
 
 </p>
 
-<!-- Support -->
-
-<h2 align="center">Support</h2>
-
-<p><a href="https://www.buymeacoffee.com/kohinoor"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kohinoor" /></a></p><br><br>
-
 
 ## 📊 My GitHub Stats:
 
@@ -90,6 +84,11 @@
 
 ![Snake Graph](https://github.com/kohinoor12/kohinoor12/blob/main/github-user-contribution.svg)
 
+<!-- Support -->
+
+<h2 align="center">Support</h2>
+
+<p align="center"><a  href="https://www.buymeacoffee.com/kohinoor"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kohinoor" /></a></p><br><br>
 
 
 <!-- ## 🛠️ Languages and Tools:
