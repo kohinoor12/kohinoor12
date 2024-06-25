@@ -27,6 +27,8 @@
 
 - ⚡ Fun fact: I Google questions I already know the answers to, just to confirm I'm right.
 
+- 📫 How to reach me kohinoorbharti7@gmail.com
+
 
 
 <h2 align="center">Languages and Tools</h2>
