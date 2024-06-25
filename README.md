@@ -43,18 +43,18 @@
 
 <h2 align="center">Languages used</h2>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohinoor12&layout=compact&theme=midnight-yellow" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohinoor12&layout=compact&theme=vision-friendly-dark" /></p>
 
 <!-- Stats -->
 <h2 align="center">My Github stats</h2>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=kohinoor12&count_private=true&show_icons=true&theme=radical" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=kohinoor12&count_private=true&show_icons=true&theme=vision-friendly-dark" /></p>
 
 <!-- Streak -->
 <h2 align="center">My Github Steaks</h2>
 
 <a align= "center" href="https://github.com/kohinoor12">
-<p align="center"><img alt= "stats card" height="200px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=kohinoor12&theme=radical">
+<p align="center"><img alt= "stats card" height="200px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=kohinoor12&theme=vision-friendly-dark">
 </a></p>
 
 <!-- Connect -->
