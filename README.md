@@ -45,19 +45,12 @@
 
 <h2 align="center">Languages used</h2>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohinoor12&layout=compact&theme=vision-friendly-dark" /></p>
+### My Github Stats 📊
 
-<!-- Stats -->
-<h2 align="center">My Github stats</h2>
-
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=kohinoor12&count_private=true&show_icons=true&theme=vision-friendly-dark" /></p>
-
-<!-- Streak -->
-<h2 align="center">My Github Steaks</h2>
-
-<a align= "center" href="https://github.com/kohinoor12">
-<p align="center"><img alt= "stats card" height="200px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=kohinoor12&theme=vision-friendly-dark">
-</a></p>
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rishabkumar7&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 
 
 ## Connect with me  
